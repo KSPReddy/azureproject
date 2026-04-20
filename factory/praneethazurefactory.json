@@ -1,0 +1,9 @@
+{
+	"name": "praneethazurefactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d312dc51-dd3b-467a-b11e-e2b44dc07e34",
+		"tenantId": "768e1951-eef9-499a-895f-4831334ad214"
+	}
+}
